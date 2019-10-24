@@ -22,6 +22,6 @@ In this project, visualizations were created to reveal insights from a data set.
 
 
 
-The visualization centers on a specific, clear finding in the data.The selected finding is clearly communicated. Design choices (interaction, filter, tool tip) helped communication between the reader and the visualization. Visualization does not add additional colors, shapes, or other design elements in an unnecessary way.
+Each visualization centers on a specific, clear finding in the data.The selected finding is clearly communicated. Design choices (interaction, filter, tool tip) are helping communication between the reader and the visualization. Each visualization does not add additional colors, shapes, or other design elements in an unnecessary way.
 
 Color choices accurately reflect the data and chosen with accessibility in mind. For example, values that span from negative to positive numbers is encoded with a diverging palette. Also, line plots used for sequences, bar charts used for categorical variables.
